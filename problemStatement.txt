@@ -1,0 +1,4 @@
+Project 1: Weather Forecast
+
+Problem Statement:
+You are tasked with creating a simple weather forecast application. The HTML and CSS for the application have been provided to you, and your job is to write the JavaScript code to fetch weather data from an open weather API and display it on the webpage.
